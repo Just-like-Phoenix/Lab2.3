@@ -6,7 +6,7 @@
 
 double array[10] = { 0 };
 double min = 0;
-int i, array_size, count_of_min, count_output;
+int i, count_of_min, count_output;
 int maxdiap, mindiap;
 
 int count()
